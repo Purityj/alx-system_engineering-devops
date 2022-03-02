@@ -1,1 +1,1 @@
-Display current directory contents ls l n a
+script to create a directory inside a directory
