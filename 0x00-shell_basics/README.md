@@ -1,1 +1,1 @@
-command that prints the file type
+creating symbolic link
