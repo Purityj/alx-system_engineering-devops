@@ -1,1 +1,1 @@
-command that lists all files
+command that prints the file type
