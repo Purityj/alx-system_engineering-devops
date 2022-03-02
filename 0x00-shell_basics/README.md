@@ -1,1 +1,1 @@
-script to create a directory inside a directory
+move a file from one directory to another
