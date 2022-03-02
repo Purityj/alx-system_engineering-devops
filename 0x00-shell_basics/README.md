@@ -1,1 +1,1 @@
-command that changes working directory to the previous one
+command that lists all files
