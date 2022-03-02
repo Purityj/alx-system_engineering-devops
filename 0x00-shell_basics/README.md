@@ -1,1 +1,1 @@
-Deleting betty
+Deleting from a directory
