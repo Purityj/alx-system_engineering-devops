@@ -1,1 +1,1 @@
-Command to display the content list of your current directory
+command to changes working directory to user home directory
