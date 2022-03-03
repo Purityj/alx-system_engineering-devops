@@ -1,1 +1,1 @@
-move files starting with capital
+deletes all files 
