@@ -9,3 +9,4 @@ script that duplicates last line
 script that deletes .js extensions
 script that counts directories and subdirectories in the current directory
 script that displays newest to oldest files
+script that prints unique words
