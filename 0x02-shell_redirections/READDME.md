@@ -4,3 +4,4 @@ display last 10 lines of a file
 display first 4 lines of a file
 display third line of a file
 a file containing some content
+script that writes to result of another command
