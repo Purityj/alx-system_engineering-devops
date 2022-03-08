@@ -7,3 +7,4 @@ a file containing some content
 script that writes to result of another command
 script that duplicates last line
 script that deletes .js extensions
+script that counts directories and subdirectories in the current directory
