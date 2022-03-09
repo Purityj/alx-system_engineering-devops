@@ -8,3 +8,4 @@ display all lines in a file starting with a letter
 replacing characters with other characters
 remove certain letters from input
 reserve input
+display all users and their home directories, sorted
