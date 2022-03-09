@@ -4,3 +4,4 @@ find the pattern
 display lines with pattern bin
 display pattern root and 3 lines after them
 hid bin
+display all lines in a file starting with a letter
