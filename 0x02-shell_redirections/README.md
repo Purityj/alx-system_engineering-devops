@@ -10,3 +10,4 @@ remove certain letters from input
 reserve input
 display all users and their home directories, sorted
 find all empty file, directories and subdirectories
+list all files with a .gif
