@@ -12,3 +12,4 @@ env varibale to the power of env var
 convert from binary to decimal
 print combination of two letters
 print a number with 2 dps
+convert from decimal to hexadecimal
