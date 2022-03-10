@@ -10,3 +10,4 @@ create a new local variable
 create global variable
 env varibale to the power of env var
 convert from binary to decimal
+print combination of two letters
