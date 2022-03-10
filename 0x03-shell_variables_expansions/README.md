@@ -7,3 +7,4 @@ divide
 list enviroment variables
 print local variables and functions
 create a new local variable
+create global variable
