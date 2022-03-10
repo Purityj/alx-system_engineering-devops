@@ -13,3 +13,4 @@ convert from binary to decimal
 print combination of two letters
 print a number with 2 dps
 convert from decimal to hexadecimal
+encodes and decodes text using r0t13 encryprion
