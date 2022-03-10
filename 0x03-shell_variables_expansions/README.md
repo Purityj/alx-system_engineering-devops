@@ -15,3 +15,4 @@ print a number with 2 dps
 convert from decimal to hexadecimal
 encodes and decodes text using r0t13 encryprion
 prints every other line
+prints numbers stored in env vars
