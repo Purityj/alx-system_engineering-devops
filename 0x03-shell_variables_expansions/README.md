@@ -9,3 +9,4 @@ print local variables and functions
 create a new local variable
 create global variable
 env varibale to the power of env var
+convert from binary to decimal
