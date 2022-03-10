@@ -5,3 +5,4 @@ count number of directories in PATH
 addition
 divide
 list enviroment variables
+print local variables and functions
